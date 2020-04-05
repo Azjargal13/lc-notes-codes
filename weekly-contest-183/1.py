@@ -1,5 +1,7 @@
 # first task
 
+# https: // leetcode.com/contest/weekly-contest-183/problems/minimum-subsequence-in-non-increasing-order/
+
 
 def minSubsequence(nums: [int]) -> [int]:
     if len(nums) == 1:

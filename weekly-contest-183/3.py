@@ -1,6 +1,8 @@
 # third task
 # happy longest number
 
+# https://leetcode.com/contest/weekly-contest-183/problems/longest-happy-string/
+
 
 def longestDiverseString(a: int, b: int, c: int) -> str:
     res = []

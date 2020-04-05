@@ -1,4 +1,7 @@
 # second task
+# https://leetcode.com/contest/weekly-contest-183/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/.
+
+
 def numSteps(s: str) -> int:
     integ = 0
     #dec = int(s, 2)

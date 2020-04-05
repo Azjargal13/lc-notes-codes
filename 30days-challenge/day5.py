@@ -1,5 +1,7 @@
 # Best time to buy and sell stock II
 
+# https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3287/
+
 
 def maxProfit(prices: [int]) -> int:
     A_ = sorted(prices, reverse=True)

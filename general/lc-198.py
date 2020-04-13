@@ -1,5 +1,5 @@
 # 198. House Robber
-
+# dp solution
 
 # class Solution:
 #     def rob(self, nums: [int]) -> int:
